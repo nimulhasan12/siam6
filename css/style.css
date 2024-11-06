@@ -1,0 +1,161 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: "Poppins", sans-serif;
+	font-size: 14px;
+	line-height: 14px;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: "Poppins", sans-serif;
+}
+a , a:hover{
+	text-decoration: none;	
+}
+
+/* global css code start here */
+
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 50%;
+	float: left;
+}
+.col-12{
+	width: 100%;
+	float: left;
+}
+
+.col-3{
+	width: 33.33%;
+	float: left;
+}
+/* global css code end here */
+.header{
+	width: 100%;
+	float: left;
+	padding: 10px 0px;
+	border-bottom: 1px solid #eee;
+}
+.logo{
+	display: block;
+}
+.navbar{
+	width: 100%;
+	float: left;
+	text-align: right;
+}
+.navbar li{
+	list-style: none;
+	display: inline-block;
+}
+.navbar li a{
+	display: block;
+	font-size: 14px;
+	line-height: 24px;
+	text-transform: capitalize;
+	color: #122954;
+	margin: 10px 0px 0px 35px;
+}
+.banner{
+	width: 100%;
+	float: left;
+	padding: 80px 0px;
+	text-align: center;
+}
+.banner h1{
+	font-size: 60px;
+	line-height: 70px;
+	color: #122954;
+	margin: 0px 0px 10px;
+}
+.banner h1 span{
+	color: #4687F6;
+}
+.banner p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #122954;
+	margin: 0px 0px 10p
+}
+.banner img{
+	width: 70%;
+}
+
+.successful{
+	width: 100%;
+	float: left;
+	padding: 0px 0px 80px;
+}
+.left-success{
+	width: 95%;
+	float: left;
+	text-align: right;
+	margin: 0px 15px;
+}
+.left-success h1{
+	font-size: 60px;
+	line-height: 70px;
+	color: #E1470B;
+	margin: 0px 0px 10px;
+}
+.left-success p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #122954;
+	margin: 0px 0px 10p
+}
+
+.right-success{
+	width: 95%;
+	float: left;
+	margin: 0px 15px;
+
+}
+.right-success h1{
+	font-size: 60px;
+	line-height: 70px;
+	color: #122954;
+	margin: 0px 0px 10px;
+}
+.feature{
+	width: 100%;
+	float: left;
+	padding: 0px 0px 80px;
+}
+.feature-inner{
+	width: 100%;
+}
+.feature-inner img{
+	width: 100%;
+}
+.feature-inner h4{
+
+}
+.feature-inner p{
+
+}
+
+
+.bg-1{
+	background: #;
+}
+.
+.bg-1{
+	
+}
+.
+.bg-1{
+	
+}
+.
+.bg-1{
+	
+}
